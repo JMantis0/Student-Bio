@@ -26,7 +26,9 @@ h2 {
 
 }
 
+/*Made position relative to place bio-quote*/
 .container {
+	position: relative;
 	margin: 0 auto;
 	width: 1024px;
 }
@@ -47,4 +49,14 @@ h2 {
 	margin-right: 20px;
 	margin-bottom: 200px;
 	
+}
+
+#bio-quote {
+	text-align: center;
+	width: 200px;
+	margin: auto;
+	bottom: -300px;
+	position: absolute;
+	font-size: 10px;
+	font-style: italic;
 }

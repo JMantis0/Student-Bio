@@ -17,3 +17,5 @@ how to add padding and margins to elements to adjust how they appear in the brow
 how to make elements in-line by using 'float: left;'
 
 how to push to Github from GitBash command line
+
+how to use position property absolute and relative to position bio-quote
